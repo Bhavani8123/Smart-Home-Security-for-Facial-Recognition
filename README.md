@@ -26,7 +26,7 @@ Installation & Setup:
 
 1.Clone this repository:
 
-git clone https://github.com/your-username/SmartHomeSecurity-IoT.git
+git clone https://github.com/Bhavani8123/Smart-Home-Security-for-Facial-Recognition.git
 cd SmartHomeSecurity-IoT
 
 
